@@ -13,6 +13,7 @@ Projeto de encurtar links realizado na semana 01 a 5/02/2022 - ReactJs de  por M
 - VsCode
 
 ## Para usar esse repositório
+```sh
 git init
 git add README.md
 git commit -m "first commit"
@@ -23,3 +24,4 @@ git push -u origin main
 git remote add origin https://github.com/kieronny/EncurtaLinks_SemanaReackJS.git
 git branch -M main
 git push -u origin main
+```
