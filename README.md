@@ -1,7 +1,7 @@
 # EncurtaLinks_SemanaReackJS
 Projeto de encurtar links realizado na semana 01 a 5/02/2022 - ReactJs de  por Mateus Fraga
 
-##Imagens
+## Imagens
 
 ##Tecnologias utilizadas
 - [node.js] - evented I/O for the backend
@@ -9,7 +9,7 @@ Projeto de encurtar links realizado na semana 01 a 5/02/2022 - ReactJs de  por M
 - [Html/Css]
 - VsCode
 
-##Para usar esse repositório
+## Para usar esse repositório
 git init
 git add README.md
 git commit -m "first commit"
